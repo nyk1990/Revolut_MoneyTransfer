@@ -12,8 +12,9 @@ A Java RESTful API for money transfers between users accounts
 
 ### How to run
 ```sh
-mvn exec:java or 
+mvn exec:java 
 ```
+or 
 from an IDE run as java application
 
 Application starts a jetty server on localhost port 8080 An H2 in memory database initialized with some sample user and account data To view
